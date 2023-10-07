@@ -1,0 +1,8 @@
+C:\Users\cagla\source\repos\AcunMedyaÖdev1\AcunMedyaÖdev1\bin\Debug\AcunMedyaÖdev1.exe.config
+C:\Users\cagla\source\repos\AcunMedyaÖdev1\AcunMedyaÖdev1\bin\Debug\AcunMedyaÖdev1.exe
+C:\Users\cagla\source\repos\AcunMedyaÖdev1\AcunMedyaÖdev1\bin\Debug\AcunMedyaÖdev1.pdb
+C:\Users\cagla\source\repos\AcunMedyaÖdev1\AcunMedyaÖdev1\obj\Debug\AcunMedyaÖdev1.csproj.AssemblyReference.cache
+C:\Users\cagla\source\repos\AcunMedyaÖdev1\AcunMedyaÖdev1\obj\Debug\AcunMedyaÖdev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\cagla\source\repos\AcunMedyaÖdev1\AcunMedyaÖdev1\obj\Debug\AcunMedyaÖdev1.csproj.CoreCompileInputs.cache
+C:\Users\cagla\source\repos\AcunMedyaÖdev1\AcunMedyaÖdev1\obj\Debug\AcunMedyaÖdev1.exe
+C:\Users\cagla\source\repos\AcunMedyaÖdev1\AcunMedyaÖdev1\obj\Debug\AcunMedyaÖdev1.pdb
